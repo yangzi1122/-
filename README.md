@@ -26,12 +26,13 @@
 #### 扫码体验
 <img src="https://images.gitee.com/uploads/images/2020/0802/111712_a4250a24_44151.jpeg" width="200px">
 
-#### 其他开源模板
-
-| 舔果果小铺 | 天使童装 | AI名片 |
-| :------: | :------: | :------: |
-| <img src="https://images.gitee.com/uploads/images/2020/0802/111712_3642a10f_44151.jpeg" width="200px"> | <img src="https://images.gitee.com/uploads/images/2020/0802/111712_5659d9e2_44151.jpeg" width="200px"> | <img src="https://images.gitee.com/uploads/images/2020/0802/111712_b05ff175_44151.jpeg" width="200px"> | 
-| [开源地址](https://github.com/walcer/TianguoguoXiaopu) | [开源地址](https://github.com/EastWorld/wechat-app-mall) | [开源地址](https://github.com/gooking/visitingCard) |
+### 其他优秀开源模板推荐
+- [天使童装](https://github.com/EastWorld/wechat-app-mall) [码云镜像](https://gitee.com/javazj/wechat-app-mall)
+- [天使童装（uni-app版本）](https://github.com/gooking/uni-app-mall) [码云镜像](https://gitee.com/javazj/uni-app-mall)
+- [舔果果小铺（升级版）](https://github.com/gooking/TianguoguoXiaopu)
+- [面馆风格小程序](https://gitee.com/javazj/noodle_shop_procedures)
+- [AI名片](https://github.com/gooking/visitingCard)
+- [仿海底捞订座排队 (uni-app)](https://github.com/gooking/dingzuopaidui) [码云镜像](https://gitee.com/javazj/dingzuopaidui)
 
 ## 联系作者
 
